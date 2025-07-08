@@ -1,0 +1,20 @@
+1. I'm using uv to manage my python project. Create a pong game using pygame. Use uv to add dependencies. The opponent shold be AI and have a 10% chance to miss the ball. The winner is the player with 10 points. The actual player should move the pong up and down using arrow keys. There should be a splash screen for 5 seconds showing "An Adam Production" followed by a title screen showing "Pong" and "Start" in smaller font waiting for the player to press the spacebar to start the game. Once the game is over display a message stating who won and waiting on the spacebar to be pressed.
+
+2. 1. Add an "Exit" option to the title screen to quit the game. Let the player use arrow keys to select "Start" or "Exit". 
+   2. After showing the winner go back to the title screen, not the splash screen.
+   3. The AI should only miss 5% of the time.
+
+3. 1. Add to the title screen a "Settings" option. Within the "Settings" screen allow the user to select how many points needed to win, difficulty of the AI.
+   2. Settings should be permanently stored in a python config file and read when the game starts and saved when the user changes them.
+   3. Add sound when the ball hits a pong paddle.
+   4. Every time the ball hits a pong paddle it should move 1% faster
+
+4. I don't have paddle.wav. Please add just a beep or something simple.
+
+5. 1. When the ball is missed play a different simple beep three times.
+   2. When the ball hits a paddle increase the ball speed by 5% instead of 1%.
+
+6. 1. Add an exteme difficulty for the AI where it is very difficult to win against.
+   2. For the title and settings screen allow for mouse input.
+
+7. Store all the previous prompts in the order that I gave them in a prompts.txt file.

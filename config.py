@@ -1,0 +1,2 @@
+WINNING_SCORE = 3
+AI_DIFFICULTY = 'Extreme'
