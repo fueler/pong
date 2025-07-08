@@ -18,3 +18,28 @@
    2. For the title and settings screen allow for mouse input.
 
 7. Store all the previous prompts in the order that I gave them in a prompts.txt file.
+
+8. 1. Add the ability to hit spacebar during a match to fire a missle straight across. If it hits the other player, play a different sound and stun time for 0.5s.
+   2. Give a countdown, 3, 2, 1, at the start of the match before spawning the ball.
+
+9. 1. The missle from the player should have a cooldown of 1.5s
+   2. The AI can shoot missles as well, but theirs are blue.
+
+10. 1. Allow for W to be used for up also.
+    2. Allow for S to be used for down also.
+    3. Spawn a star, that when shot with a missle it freezes the other player for 0.5s
+    4. Player celebration sound that is generated like the others when the game is over
+    5. Player a start sound that is generated like the others when the game starts, playing a beep which each countdown.
+
+11. 1. Once the win situation occurs the countdown should not occur.
+    2. The ball spawn should occur 1s after Go is shown.
+
+12. 1. There needs to be a countdown for every ball that is spawned.
+    2. Instead of diamond, a star would be better.
+    3. In the menus, W and S should be able to move the selection
+
+13. 1. The 1s after Go should be done after showing the playing field, not while Go is shown.
+    2. Alternate the yellow star with a blue star. The blue star will make the player's paddle taller for 5s.
+    3. In addition to the yellow and blue stars, add another star, a green star, that lets you move 25% faster for 5s.
+
+14. Update prompts.txt with all the user prompts using the existing format.
